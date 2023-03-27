@@ -2,11 +2,15 @@
 
 ###
 
-<p align="left">Me chamo Miguel, e tenho 20 anos. Sou um desenvolvedor back-end junior e em formação, residindo atualmente em Ibiúna, SP.<br><br>Estou estudando desenvolvimento web Full-Stack pela @betrybe! #turma25</p>
+<p align="left">Me chamo Miguel, e tenho 20 anos. Sou um desenvolvedor back-end junior e em formação, residindo atualmente em Ibiúna, SP.<br><br>Estou estudando desenvolvimento web Full-Stack pela <a href="https://www.betrybe.com" target="_blank">Trybe!</a> #turma25</p>
 
 ###
 
-<p align="left">:cat2: Amo bichos (5 gatos e 1 cachorro)<br>:video_game: Gamer<br>🎯 Buscando ingressar no mercado desenvolvendo em back-end</p>
+<ul>
+  <li>:cat2: Amo bichos (5 gatos e 1 cachorro)</li>
+  <li>:video_game: Gamer</li>
+  <li>🎯 Buscando ingressar no mercado desenvolvendo em back-end</li>
+</ul>
 
 ###
 
