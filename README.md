@@ -1,4 +1,4 @@
-<h1 align="left">Sejam bem vindes ao meu perfil!</h1>
+<h1 align="center">Sejam bem vindes ao meu perfil!</h1>
 
 ###
 
@@ -14,11 +14,11 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="center">Tecnologias</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -36,11 +36,11 @@
 
 ###
 
-<h2 align="left">Contato</h2>
+<h2 align="center">Contato</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/miguel-soares-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
