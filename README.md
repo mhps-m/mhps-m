@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Me chamo Miguel, e tenho 20 anos. Sou um desenvolvedor back-end junior e em formação, residindo atualmente em Ibiúna, SP.<br><br>Estou estudando desenvolvimento web Full-Stack pela <a href="https://www.betrybe.com" target="_blank">Trybe!</a> #turma25</p>
+<p align="left">Me chamo Miguel, e tenho 20 anos. Sou um desenvolvedor back-end junior e em formação, residindo atualmente em Ibiúna, SP.<br></br>
+Sou apaixonado pelo mundo dos games desde pequeno. Isso foi uma porta de entrada para que eu conhecesse melhor o desenvolvimento de softwares, o que me despertou interesse em, um dia, criar minhas próprias aplicações.<br></br>
+Estou estudando desenvolvimento web Full-Stack pela <a href="https://www.betrybe.com" target="_blank">Trybe!</a>
+</p>
 
 ###
 
@@ -26,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="52" alt="mongodb logo"  />
 </div>
 
 ###
