@@ -1,8 +1,8 @@
-<h1 align="center">Sejam bem vindes ao meu perfil!</h1>
+<h1 align="center">Olá!</h1>
 
 ###
 
-<p align="left">Me chamo Miguel, e tenho 20 anos. Sou um desenvolvedor back-end junior e em formação, residindo atualmente em Ibiúna, SP.<br></br>
+<p align="left">Me chamo Miguel, e tenho 20 anos. Sou um desenvolvedor back-end júnior e em formação, residindo atualmente em Ibiúna, SP.<br></br>
 Sou apaixonado pelo mundo dos games desde pequeno. Isso foi uma porta de entrada para que eu conhecesse melhor o desenvolvimento de softwares, o que me despertou interesse em, um dia, criar minhas próprias aplicações.<br></br>
 Estou estudando desenvolvimento web Full-Stack pela <a href="https://www.betrybe.com" target="_blank">Trybe!</a>
 </p>
@@ -10,9 +10,9 @@ Estou estudando desenvolvimento web Full-Stack pela <a href="https://www.betrybe
 ###
 
 <ul>
-  <li>:cat2: Amo bichos (5 gatos e 1 cachorro)</li>
-  <li>:video_game: Gamer</li>
-  <li>🎯 Buscando ingressar no mercado desenvolvendo em back-end</li>
+  <li>:cat2: Amo bichos (5 gatos e 1 cachorro);</li>
+  <li>:video_game: Gamer;</li>
+  <li>🎯 Buscando ingressar no mercado desenvolvendo em back-end.</li>
 </ul>
 <br></br>
 
